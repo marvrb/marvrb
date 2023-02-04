@@ -25,5 +25,5 @@ thats_me.make_something()
 ```
 
 
-<a href="https://github.com/marvrb/marvrb"><img src="https://img.shields.io/badge/Editor-Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode" width="210">
+<a href="https://github.com/marvrb"><img src="https://img.shields.io/badge/Editor-Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode" width="210">
 <a/>
