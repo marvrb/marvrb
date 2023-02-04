@@ -23,3 +23,5 @@ class AboutMe:
 thats_me = AboutMe()
 thats_me.make_something()
 ```
+
+<img src="https://img.shields.io/badge/Editor-Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode" width="210">
