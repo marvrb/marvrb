@@ -25,5 +25,5 @@ thats_me.make_something()
 ```
 
 
-<a href="https://github.com/marvrb"><img src="https://img.shields.io/badge/Editor-Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode" width="200">
-<a/>    <a href="https://github.com/marvrb"><img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python" width="173"><a/>
+<a href="https://github.com/marvrb" style="text-decoration: None;"><img src="https://img.shields.io/badge/Editor-Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visualstudiocode" width="200">
+<a/> <a href="https://github.com/marvrb" style="text-decoration: None;"><img src="https://img.shields.io/badge/Main%20Language-Python-3776AB?style=for-the-badge&logo=python" width="173"><a/>
