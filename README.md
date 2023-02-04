@@ -1,8 +1,9 @@
 ## Hey, I'm Marvin!
+
 <br/>
-<img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="100">
-Hobby developer from germany since 2021
-<br/><br/>
+
+Hobby developer from germany since 2021 <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="35">
+
 
 
 ```py
