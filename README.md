@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/marvrb/marvrb/main/banner.png)
+
   
 ### About me
 
