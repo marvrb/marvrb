@@ -17,6 +17,7 @@ class AboutMe:
 
     def make_something(self):
         print("Thanks for coming arround, not so much going on here yet!")
+        print("Please give me feedback. It would help me a lot")
 
 
 
