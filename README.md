@@ -1,4 +1,4 @@
-## Hey <img src="assets/hi.gif">, I'm Marvin!
+## Hey <img src="assets/Hi.gif">, I'm Marvin!
 
 <br/>
 
